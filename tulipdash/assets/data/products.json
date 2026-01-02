@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Small Hamper",
+    "price": "₹299",
+    "image": "assets/images/small.jpg"
+  },
+  {
+    "name": "Medium Hamper",
+    "price": "₹499",
+    "image": "assets/images/medium.jpg"
+  },
+  {
+    "name": "Large Hamper",
+    "price": "₹599",
+    "image": "assets/images/large.jpg"
+  }
+]
